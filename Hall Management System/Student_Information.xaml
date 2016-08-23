@@ -1,0 +1,9 @@
+﻿<Window x:Class="Hall_Management_System.Student_Information"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Student's Information" Height="400" Width="600" Loaded="Information_Form">
+    <Grid>
+        <TextBox Name="t1" HorizontalAlignment="Left" Height="23" Margin="223,81,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

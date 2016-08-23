@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<!DOCTYPE students[
+<!ELEMENT students ANY>
+<!ELEMENT student ANY>
+<!ELEMENT name ANY>
+<!ELEMENT firstname ANY>
+<!ELEMENT lastname ANY>
+<!ELEMENT classroll ANY>
+<!ELEMENT ragistration ANY>
+<!ELEMENT session ANY>
+<!ELEMENT department ANY>
+<!ELEMENT birthday ANY>
+<!ELEMENT religion ANY>
+<!ELEMENT nationality ANY>
+<!ELEMENT fathername ANY>
+<!ELEMENT occupation ANY>
+<!ELEMENT presentaddress ANY>
+<!ELEMENT permanentaddress ANY>
+<!ELEMENT roomno ANY>
+<!ATTLIST student studentid ID #REQUIRED>
+]>
+<students>
+  <student studentid="113017">
+    <firstname>Udoy Hossen</firstname>
+    <lastname>Miltan</lastname>
+    <classroll>113017</classroll>
+    <ragistration>379</ragistration>
+    <session>2011-12</session>
+    <department>CSE</department>
+    <birthday>05-10-1994</birthday>
+    <phone>01726-228998</phone>
+    <religion>Islam</religion>
+    <nationality>Bangladeshi</nationality>
+    <fathername>Md. Ramjan Ali</fathername>
+    <occupation>Teacher</occupation>
+    <presentaddress>room no-314, Shahid Zia hall,
+RUET.</presentaddress>
+    <permanentaddress>vill-Domanmara, p/o-Khidirpur, P/s- Manohardi, Dist- Narsingdi.</permanentaddress>
+    <roomno>28</roomno>
+  </student>
+  <student studentid="113009">
+    <firstname>Isfar</firstname>
+    <lastname>Uddin</lastname>
+    <classroll>113009</classroll>
+    <ragistration>371</ragistration>
+    <session>2011-12</session>
+    <department>CSE</department>
+    <birthday>-</birthday>
+    <phone>-</phone>
+    <religion>Islam</religion>
+    <nationality>Bangladeshi</nationality>
+    <fathername>-</fathername>
+    <occupation>-</occupation>
+    <presentaddress>room-28, tinshed hall, RUET.</presentaddress>
+    <permanentaddress>-</permanentaddress>
+    <roomno>28</roomno>
+  </student>
+  <student studentid="113012">
+    <firstname>Aminul</firstname>
+    <lastname>Islam</lastname>
+    <classroll>113012</classroll>
+    <ragistration>374</ragistration>
+    <session>2011-12</session>
+    <department>CSE</department>
+    <birthday>-</birthday>
+    <phone>01916-232841</phone>
+    <religion>Islam</religion>
+    <nationality>Bangladeshi</nationality>
+    <fathername>
+    </fathername>
+    <occupation>
+    </occupation>
+    <presentaddress>room No-28, Tin shed Hall.</presentaddress>
+    <permanentaddress>Tangail</permanentaddress>
+    <roomno>28</roomno>
+  </student>
+  <student studentid="110011">
+    <firstname>Galib</firstname>
+    <lastname>Shuvo</lastname>
+    <classroll>110011</classroll>
+    <ragistration>011</ragistration>
+    <session>2011-12</session>
+    <department>CE</department>
+    <birthday>26-03-1993</birthday>
+    <phone>01744-867959</phone>
+    <religion>Islam</religion>
+    <nationality>Bangladeshi</nationality>
+    <fathername>-</fathername>
+    <occupation>-</occupation>
+    <presentaddress>Room no-02,
+Shahid Tin Shed Hall,
+RUET.</presentaddress>
+    <permanentaddress>Sirajganj.</permanentaddress>
+    <roomno>02</roomno>
+  </student>
+  <student studentid="113006">
+    <firstname>Saad</firstname>
+    <lastname>Ahmed</lastname>
+    <classroll>113006</classroll>
+    <ragistration>-</ragistration>
+    <session>2011-12</session>
+    <department>CSE</department>
+    <birthday>-</birthday>
+    <phone>-</phone>
+    <religion>Islam</religion>
+    <nationality>Bangladeshi</nationality>
+    <fathername>-</fathername>
+    <occupation>-</occupation>
+    <presentaddress>tinshed hall</presentaddress>
+    <permanentaddress>-</permanentaddress>
+    <roomno>21</roomno>
+  </student>
+</students>

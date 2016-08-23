@@ -1,0 +1,49 @@
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\bin\Debug\Hall Management System.exe.config
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\bin\Debug\Hall Management System.exe
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\bin\Debug\Hall Management System.pdb
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.csprojResolveAssemblyReference.cache
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\MainWindow.baml
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\MainWindow.g.cs
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\App.g.cs
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System_MarkupCompile.cache
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.g.resources
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall_Management_System.Properties.Resources.resources
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.csproj.GenerateResource.Cache
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.exe
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.pdb
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\AddWindow.baml
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\AddWindow.g.cs
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\InfoWindow.baml
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\InfoWindow.g.cs
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\EditWindow.baml
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\EditWindow.g.cs
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\RemoveWindow.baml
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\RemoveWindow.g.cs
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Student_Information.baml
+D:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Student_Information.g.cs
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\bin\Debug\Hall Management System.exe.config
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.exe
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.pdb
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\bin\Debug\Hall Management System.exe
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\bin\Debug\Hall Management System.pdb
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.csprojResolveAssemblyReference.cache
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\AddWindow.baml
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\EditWindow.baml
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\InfoWindow.baml
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\MainWindow.baml
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\RemoveWindow.baml
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Student_Information.baml
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\AddWindow.g.cs
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\EditWindow.g.cs
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\InfoWindow.g.cs
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\MainWindow.g.cs
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\RemoveWindow.g.cs
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Student_Information.g.cs
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\App.g.cs
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System_MarkupCompile.cache
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.g.resources
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall_Management_System.Properties.Resources.resources
+E:\C#\Practice\WPF\Hall Management System\Hall Management System\obj\Debug\Hall Management System.csproj.GenerateResource.Cache
+G:\My Work\Projects\Hall Management System\Hall Management System\bin\Debug\Hall Management System.exe.config
+G:\My Work\Projects\Hall Management System\Hall Management System\obj\Debug\Hall Management System.exe
+G:\My Work\Projects\Hall Management System\Hall Management System\obj\Debug\Hall Management System.pdb

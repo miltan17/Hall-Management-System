@@ -1,0 +1,18 @@
+﻿<Window x:Name="form" x:Class="Hall_Management_System.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Hall Management System" Height="510" Width="600" Loaded="form_Loaded_1">
+    <Grid Margin="0,0,2,-2" Height="471" VerticalAlignment="Bottom">
+        <Label Content="From here we can -" FontSize="19" HorizontalAlignment="Left" Margin="64,50,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.512,0.133"/>
+        <Label Content="-> Find the information of any student of the hall." FontSize="16" HorizontalAlignment="Left" Margin="125,90,0,0" VerticalAlignment="Top"/>
+        <Label Content="-> Edit any information of any student." FontSize="16" HorizontalAlignment="Left" Margin="125,126,0,0" VerticalAlignment="Top"/>
+        <Label Content="-> Add the information of any student." FontSize="16" HorizontalAlignment="Left" Margin="125,162,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.029,-1.347"/>
+        <Label Content="-> And finally can remove all the information on any student." FontSize="16" HorizontalAlignment="Left" Margin="125,198,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.009,0.376"/>
+        <Button Content="Add student" HorizontalAlignment="Left" Margin="218,342,0,0" VerticalAlignment="Top" Width="101" Height="31" Click="AddStudentButton"/>
+        <Button Content="Student Info" HorizontalAlignment="Left" Margin="218,248,0,0" VerticalAlignment="Top" Width="101" Height="32" Click="StudentInfoButton"/>
+        <Button Content="Edit Information" HorizontalAlignment="Left" Margin="218,297,0,0" VerticalAlignment="Top" Width="101" Height="30" Click="EditInfoButton"/>
+        <Button Content="Remove Student" HorizontalAlignment="Left" Margin="218,389,0,0" VerticalAlignment="Top" Width="101" Height="30" Click="RemoveInfoButton"/>
+        <Button Content="Exit" HorizontalAlignment="Left" Margin="455,431,0,0" VerticalAlignment="Top" Width="67" Height="30" Click="Button_Click"/>
+
+    </Grid>
+</Window>
